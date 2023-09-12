@@ -38,6 +38,10 @@
     object-fit: cover;
 }
 
+.light__theme ,.slick-prev:before ,.slick-next:before {
+  color: grey!important;
+}
+
 .customer__name{
     font-size: 1.2rem;
     color: white;

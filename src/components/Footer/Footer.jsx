@@ -99,7 +99,7 @@ const Footer = () => {
                     </ul>
                 </div>
             </div>
-            <p className="copyright">Copyright {year}, developed by Chinmay Kharat. All rights reserved.{''}</p>
+            <p className="copyright">© Copyright {year}, developed by GrowWid. All rights reserved.{''}</p>
         </div>
     </footer>
 }

@@ -12,8 +12,13 @@
     width: 40%;
 }
 
+.footer__quick-links ul {
+    list-style: none;
+}
+
 .footer__quick-links {
     width: 20%;
+    
 }
 
 .footer__logo {
@@ -30,10 +35,6 @@
     color: var(--primary-color);
     font-weight: 500;
     margin-bottom: 30px;
-}
-
-.quick__link {
-    list-style: none;
 }
 
 .quick__link-item {
